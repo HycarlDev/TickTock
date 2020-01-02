@@ -8,7 +8,11 @@
 Use the package manager [npm](https://www.npmjs.com/get-npm) to install ticktock.
 
 ```bash
-npx install ticktock
+download the zip file of this project first
+```
+
+```bash
+npm install ticktock
 ```
 
 
