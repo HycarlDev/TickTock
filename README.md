@@ -3,8 +3,6 @@
 - TickTock is a stopwatch and timer application by React <br>
 - Created by Haikal Azmi
 
-https://img.shields.io/github/issues-raw/HycarlDev/TickTock
-
 ## Installation
 
 Use the package manager [npx](https://www.npmjs.com/package/npx) to install ticktock.
