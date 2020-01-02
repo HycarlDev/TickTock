@@ -23,7 +23,7 @@ class Countdown extends Component {
       } else {
         clearInterval(this.timer);
         this.setState({ timerOn: false });
-        alert("Countdown ended");
+        alert("The countdown has ended!");
       }
     }, 10);
   };
