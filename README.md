@@ -5,7 +5,7 @@
 
 ## Installation
 
-Use the package manager [npx](https://www.npmjs.com/package/npx) to install ticktock.
+Use the package manager [npm](https://www.npmjs.com/get-npm) to install ticktock.
 
 ```bash
 npx install ticktock
