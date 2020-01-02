@@ -2,6 +2,8 @@
 
 - TickTock is a stopwatch and timer application by React <br>
 - Created by Haikal Azmi
+- [TickTock Timer](https://ticktock-timer.herokuapp.com/)
+
 
 ## Installation
 
